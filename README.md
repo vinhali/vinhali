@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://youtube.com/itsurvivors)](https://youtube.com/itsurvivors)
 
 
-- 🔭 I’m Staff Engineer at PicpayJS 
+- 🔭 I’m Staff Engineer at Picpay
 - 💬 Ask me about AWS and Azure, Cloud Native Architecture, Microservices (Kubernetes), Observability and... Containers! 
 - 📫 How to reach me: vinhali@outlook.com
 - 😄 Pronouns: He/Him
