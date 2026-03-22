@@ -6,9 +6,8 @@
 [![Youtube Badge](https://img.shields.io/badge/-Youtube-red?style=flat-square&labelColor=red&logo=youtube&logoColor=white&link=https://youtube.com/itsurvivors)](https://youtube.com/itsurvivors)
 
 
-- 🔭 I’m currently working on Bradesco
-- 🌱 I’m currently learning Golang and JS 
-- 💬 Ask me about AWS and Azure, Cloud Native Architecture, Microservices (Kubernetes) and... Containers! 
+- 🔭 I’m Staff Engineer at PicpayJS 
+- 💬 Ask me about AWS and Azure, Cloud Native Architecture, Microservices (Kubernetes), Observability and... Containers! 
 - 📫 How to reach me: vinhali@outlook.com
 - 😄 Pronouns: He/Him
 - 💪 Fun fact: My hobby is bodybuilding, and I have a bulldog called Madonna.🐶 
